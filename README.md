@@ -9,7 +9,7 @@ Small CRUD project implement React, TailwindCSS, TS knowledge.
 
 ## TIMELINE:
 
-- Feb 24th - March 9
+- 6~7 weeks
 
 ## TARGET:
 
