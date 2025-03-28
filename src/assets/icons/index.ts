@@ -1,47 +1,53 @@
-import ArrowDownCircleIcon from './arrow-down-circle.svg'
+import ArrowDownIcon from './arrow-down.svg'
+import ArrowUpIcon from './arrow-up.svg'
 import ArrowLeftIcon from './arrow-left.svg'
-import ArrowRightIcon from './arrow-right.svg'
-import ArrowUpCircleIcon from './arrow-up-circle.svg'
-import CreditCardIcon from './credit-card.svg'
-import EconometricsIcon from './econometrics.svg'
-import EconometricInvestmentIcon from './economic-investment.svg'
+import BookmarkIcon from './bookmark.svg'
+import CardIcon from './card.svg'
+import CheckIcon from './check.svg'
+import ChevronDownIcon from './chevron-down.svg'
+import CloseIcon from './close.svg'
+import CoinIcon from './coin.svg'
+import DeleteIcon from './delete.svg'
+import DiscountIcon from './discount.svg'
+import EditIcon from './edit.svg'
+import FilterIcon from './filter.svg'
+import GraphIcon from './graph.svg'
 import HomeIcon from './home.svg'
-import BusinessFinanceMoneyIcon from './iconfinder-business-finance-money.svg'
-import PaypalPaymentIcon from './iconfinder-paypal-payment-pay.svg'
-import IconfinderIcon from './iconfinder.svg'
-import LoanIcon from './loan.svg'
-import LogoIcon from './logo.svg'
+import Logo from './logo.svg'
+import LogoutIcon from './logout.svg'
+import MessageIcon from './message.svg'
 import NotificationIcon from './notification.svg'
-import RenewIcon from './renew.svg'
+import PaypalIcon from './paypal.svg'
+import PlusIcon from './plus.svg'
 import SearchIcon from './search.svg'
-import SendIcon from './send.svg'
-import SettingServiceIcon from './settings-service.svg'
-import SettingSolidIcon from './settings-solid.svg'
-import SettingIcon from './settings.svg'
-import TransferIcon from './transfer.svg'
-import UserIcon from './user.svg'
+import SettingIcon from './setting.svg'
+import TwoUsersIcon from './two-users.svg'
+import WalletIcon from './wallet.svg'
 
 export {
-  ArrowDownCircleIcon,
+  ArrowDownIcon,
   ArrowLeftIcon,
-  ArrowRightIcon,
-  ArrowUpCircleIcon,
-  CreditCardIcon,
-  EconometricsIcon,
-  EconometricInvestmentIcon,
+  ArrowUpIcon,
+  BookmarkIcon,
+  CardIcon,
+  CheckIcon,
+  ChevronDownIcon,
+  CloseIcon,
+  CoinIcon,
+  DeleteIcon,
+  DiscountIcon,
+  EditIcon,
+  FilterIcon,
+  GraphIcon,
   HomeIcon,
-  BusinessFinanceMoneyIcon,
-  PaypalPaymentIcon,
-  IconfinderIcon,
-  LoanIcon,
-  LogoIcon,
+  Logo,
+  LogoutIcon,
+  MessageIcon,
   NotificationIcon,
-  RenewIcon,
+  PaypalIcon,
+  PlusIcon,
   SearchIcon,
-  SendIcon,
-  SettingServiceIcon,
-  SettingSolidIcon,
   SettingIcon,
-  TransferIcon,
-  UserIcon
+  TwoUsersIcon,
+  WalletIcon
 }
