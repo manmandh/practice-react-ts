@@ -1,6 +1,6 @@
 import React from 'react'
 import { Meta, StoryFn } from '@storybook/react'
-import Counter from '../components/Counter'
+import Counter from '../Components/Counter'
 import { CounterProvider } from '../context/CounterContext'
 
 // Default export to tell Storybook how to render the story
