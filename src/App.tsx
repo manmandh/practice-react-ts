@@ -4,10 +4,8 @@ import 'react-toastify/ReactToastify.css'
 import './App.css'
 import HomePage from './pages/home/homePage'
 import { ProductModalProvider } from './context/productModalContext/productModalContext'
-import ProductModal from './components/common/productForm/productModal'
 import MainLayout from './layouts/main-layout'
 import ChartPage from './pages/charts/chartPage'
-import ProductManagementPage from './pages/product-management/productManagementPage'
 import MessagePage from './pages/messages/messagePage'
 import NotificationPage from './pages/notifications/notificationPage'
 import SettingPage from './pages/settings/settingPage'
@@ -28,13 +26,11 @@ function App() {
             <Route path='settings' element={<SettingPage />} />
             <Route path='discounts' element={<DiscountPage />} />
           </Route>
-          <Route path='/manage/product' element={<ProductManagementPage />} />
           <Route
             path='*'
             element={<div className='absolute inset-0 flex items-center justify-center'>Page Not Found</div>}
           />
         </Routes>
-        <ProductModal />
       </ProductModalProvider>
     </BrowserRouter>
   )
